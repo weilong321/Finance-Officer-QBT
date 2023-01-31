@@ -1,4 +1,4 @@
-# Finance-Officer-QBT
+# Finance-Officer-QBT-Tasks
 
 ## Automating weekly reconciliation of supplier payments
 
